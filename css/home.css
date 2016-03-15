@@ -75,7 +75,7 @@ a,input{outline:0;}
 .aboutRight .info{display:block;}
 /*contact*/
 .contactCont{width:280px;height:250px;padding:142px 0 0 300px;margin:0 auto;position:relative;}
-.bgImg{width:444px;height:298px;position:absolute;top:47px;left:0;background:url(../images/me.jpg) no-repeat left center;_background:none;_filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="images/contact.png");}
+.bgImg{width:444px;height:298px;position:absolute;top:47px;left:0;background:url(../images/my.jpg) no-repeat left center;_background:none;_filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="images/contact.png");}
 .contactCont h1{padding-bottom:20px;}
 .contactCont p{padding-bottom:10px;line-height:1.6;}
 /*travel*/
