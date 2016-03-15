@@ -1,0 +1,30 @@
+body {background:#440394;}
+.container{background:url(../images/bg_body.jpg) no-repeat top left;}
+.one_box{background:url(../images/about_001.jpg) no-repeat;}
+.two_box{background:url(../images/works_001.jpg) no-repeat;}
+.three_box{background:url(../images/wx.jpg) no-repeat;}
+.four_box{background:url(../images/flink_002.jpg) no-repeat;}
+.five_box{width:153px;background:url(../images/wb_tx_001.jpg) no-repeat;}
+.six_box{width:322px;background:url(../images/wb_sina_001.jpg) no-repeat;}
+.eight_box{width:155px;height:312px;background:url(../images/flink_001.jpg) no-repeat;}
+.seven_one{height:148px;background:url(../images/life_001.jpg) no-repeat;}
+.seven_two{height:151px;margin-top:13px;background:url(../images/travel_001.jpg) no-repeat;}
+/*foot*/
+.foot,.foot a{color:#f1f1f1;}
+.foot a:hover{color:#f1f1f1;}
+.bigBox{border:5px solid #CCC;}
+.bigBox img{border:8px solid #333;}
+.aboutLeft a,.aboutLeft a:hover{color:#fff;}
+.aboutRight{color:#F5F5F5;background:#b492dd;}
+.aboutRight h3{color:#fff;}
+.contactCont{color:#fff;}
+/*travel*/
+/*.travelTitle{border-bottom:2px solid #DBC9F0;}
+.travelTitle a{color:#fff;}
+.travelTitle a:hover{color:#fff;}*/
+/*life*/
+/*.nobg{background:none;}
+.lifeTit{background:url(../images/icon_life.jpg) no-repeat 0 -146px;}
+.lifeYear h2 i{background:url(../images/icon_life.jpg) no-repeat 0 -20px;}
+.arrow_i{background:url(../images/icon_life.jpg) no-repeat 0 -96px;}
+.circle{background:url(../images/icon_life.jpg) no-repeat 0 -44px;}*/

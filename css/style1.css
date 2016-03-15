@@ -1,0 +1,29 @@
+body {background:#DBC9F0;}
+.top{border-bottom:4px solid #440394;}
+.one_box{background:url(../images/about.jpg) no-repeat;}
+.two_box{background:url(../images/works_1.jpg) no-repeat;}
+.three_box{background:url(../images/wx.jpg) no-repeat;}
+.four_box{background:url(../images/flink_2.jpg) no-repeat;}
+.five_box{width:153px;background:url(../images/wb_tx.jpg) no-repeat;}
+.six_box{width:322px;background:url(../images/wb_sina.jpg) no-repeat;}
+.eight_box{width:155px;height:312px;background:url(../images/flink_1.jpg) no-repeat;}
+.seven_one{height:148px;background:url(../images/life.jpg) no-repeat;}
+.seven_two{height:151px;margin-top:13px;background:url(../images/travel.jpg) no-repeat;}
+.foot,.foot a{color:#666;}
+.foot a:hover{color:#666;}
+.foot{padding:50px 0 3px;}
+.bigBox{border:5px solid #333;}
+.bigBox img{border:8px solid #EFEFEF;}
+.aboutLeft a,.aboutLeft a:hover{color:#333;}
+.aboutRight{color:#666;background:#efefef;}
+.aboutRight h3{color:#333;}
+.contactCont{color:#666;}
+/*travel*/
+/*.travelTitle{border-bottom:2px solid #AD76F5;}
+.travelTitle a{color:#333;}
+.travelTitle a:hover{color:#333;}*/
+/*life*/
+/*.lifeTit{background:url(../images/icon_life1.jpg) no-repeat 0 -146px;}
+.lifeYear h2 i{background:url(../images/icon_life1.jpg) no-repeat 0 -20px;}
+.arrow_i{background:url(../images/icon_life1.jpg) no-repeat 0 -96px;}
+.circle{background:url(../images/icon_life1.jpg) no-repeat 0 -44px;}*/
