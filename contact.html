@@ -65,6 +65,14 @@
 <script src="./js/jquery-1.js"></script>
 <script src="./js/common.js"></script>
 <script src="./js/softwhy.js"></script>
+<script>
+    document.onselectstart=function() {return false;}   
+    document.oncopy=function() {return false;}  
+</script>
+
+<script language="javascript">  
+    if(self!=top){top.location.href=self.location.href;}   
+</script> 
 <!-- JiaThis Button BEGIN -->
 <!-- <script type="text/javascript" src="http://v3.jiathis.com/code_mini/jiathis_r.js?move=0" charset="utf-8"></script> -->
 <!-- JiaThis Button END -->
