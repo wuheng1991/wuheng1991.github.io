@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data>
+    <name>wuheng</name>
+    <age>23</age>
+    <email>demo@qq.com</email>
+  </data>
+  <data>
+    <name>wuheng009</name>
+    <age>22</age>
+    <email>dem6@qq.com</email>
+  </data>
+  <data>
+    <name>wuheng555</name>
+    <age>22</age>
+    <email>dem6@qq.com</email>
+  </data>
+  <data>
+    <name>xia</name>
+    <age>11</age>
+    <email>456@qq.com</email>
+  </data>
+  <data>
+    <name>xia11</name>
+    <age>12</age>
+    <email>466@qq.com</email>
+  </data>
+</root>
